@@ -5,7 +5,7 @@ Agent Skill para auditar sitios web (repositorios locales o URLs en vivo), gener
 ## Instalación (`skills.sh`)
 
 ```bash
-npx skills add <TU_USUARIO_GITHUB>/seo-top1-architect
+npx skills add LUISBENJUMEARIVERA/SEOREVIEW
 ```
 
 ## Estructura
